@@ -1,14 +1,28 @@
+
 body {
-    
-    color: black;
-    background-color:#DEA99E;
+    background-color: #DEA99E;
 }
 
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px){
 h1 {
-    color: #fff;
+    color: black;
     text-align: center;
     font-family: cursive;
 }
+    
+
 h2 {
     color: black;
     text-align: center;
@@ -28,4 +42,6 @@ p{
     
     
     
+}
+
 }
