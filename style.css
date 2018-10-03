@@ -1,1 +1,31 @@
-/* Your CSS styles go here */
+body {
+    
+    color: black;
+    background-color:#DEA99E;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-family: cursive;
+}
+h2 {
+    color: black;
+    text-align: center;
+   
+    font-family: cursive;
+    
+    
+    
+}
+
+p{
+    text-align:center;
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: #B0F4DE;
+    font-family: sans-serif;
+    
+    
+    
+}
